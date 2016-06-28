@@ -1,0 +1,18 @@
+/* style sheet for example cafe */
+
+body {font-family:arial, verdana, sans-serif;
+     background-color:#F6FFFE;}
+
+h1, h2, h3, h4 {
+	font-family:georgia, times, serif;
+	color:#C0B7FF;}
+
+p {
+	color:#333333;
+	font-size:90%;}
+
+#navigation a {
+	color:#190FFF;
+	text-decoration:none;
+	margin-right:30px;}
+	

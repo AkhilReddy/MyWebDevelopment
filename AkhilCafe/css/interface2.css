@@ -1,0 +1,14 @@
+/*style sheet for Akhil Cafe*/
+
+body {font-family:arial, verdana, sans-serif;}
+
+h1,h2,h3,h4 {font-family:georgia, times, serif;
+color:#FFE4C4;}
+
+p {font-size:90%;
+color:#E6422A;}
+
+#navigation  a  {color:#E6422A;
+text-decoration:none;
+margin-right:20px;
+}
